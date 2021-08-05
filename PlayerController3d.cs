@@ -3,6 +3,15 @@ using System.Linq;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
+/// <summary>
+/// Hey developer!
+/// If you have any questions, come chat with me on my Discord: https://discord.gg/GqeHHnhHpz
+/// If you enjoy the controller, make sure you give the video a thumbs up: https://youtu.be/rJECT58CQHs
+/// Have fun!
+///
+/// Love,
+/// Tarodev
+/// </summary>
 public class PlayerController3d : MonoBehaviour {
     [SerializeField] private Rigidbody _rb;
     [SerializeField] private Animator _anim;
